@@ -7,7 +7,7 @@
 
 
 ## Используемые библиотеки:
-pandas, matplotlib, seaborn, scipy, numpy, functools. 
+`pandas` `matplotlib` `seaborn` `scipy` `numpy` `functools` 
 
 ## Общий вывод к проекту:
 

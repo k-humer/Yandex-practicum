@@ -7,7 +7,7 @@
 
 
 ## Используемые библиотеки:
-pandas, matplotlib, seaborn
+`pandas` `matplotlib` `seaborn`
 
 ## Общий вывод к проекту:
 
