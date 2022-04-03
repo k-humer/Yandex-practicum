@@ -6,7 +6,7 @@
 
 
 ## Используемые библиотеки:
-pandas, matplotlib, seaborn, scipy, requests, plotly, math/
+`pandas`, matplotlib, seaborn, scipy, requests, plotly, math/
 
 ## Общий вывод к проекту:
 
